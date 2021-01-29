@@ -1,0 +1,272 @@
+[
+  {
+    "defense": 88,
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 2,
+    "type": "Winged Helm"
+  },
+  {
+    "defense": 449,
+    "iLevel": 68,
+    "quality": "Normal",
+    "sockets": 4,
+    "type": "Dusk Shroud"
+  },
+  {
+    "defense": 49,
+    "iLevel": 85,
+    "quality": "Superior",
+    "sockets": 3,
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 8
+      }
+    ],
+    "type": "Crown"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 5,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Crystal Sword"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 3,
+    "type": "Ward Bow"
+  },
+  {
+    "defense": 410,
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "item_fastermovevelocity",
+        "value": -5
+      }
+    ],
+    "type": "Boneweave"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 3,
+    "type": "Diamond Bow"
+  },
+  {
+    "defense": 440,
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 2,
+    "type": "Dusk Shroud"
+  },
+  {
+    "defense": 480,
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 3,
+    "type": "Wire Fleece"
+  },
+  {
+    "defense": 652,
+    "iLevel": 85,
+    "isEthereal": true,
+    "quality": "Normal",
+    "stats": [
+      {
+        "name": "item_fastermovevelocity",
+        "value": -5
+      }
+    ],
+    "type": "Ornate Plate"
+  },
+  {
+    "defense": 585,
+    "iLevel": 85,
+    "quality": "Superior",
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 13
+      },
+      {
+        "name": "item_maxdurability_percent",
+        "value": 10
+      },
+      {
+        "name": "item_fastermovevelocity",
+        "value": -5
+      }
+    ],
+    "type": "Balrog Skin"
+  },
+  {
+    "defense": 441,
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "Archon Plate"
+  },
+  {
+    "defense": 93,
+    "iLevel": 38,
+    "quality": "Normal",
+    "sockets": 3,
+    "type": "Light Plate"
+  },
+  {
+    "defense": 227,
+    "iLevel": 66,
+    "quality": "Superior",
+    "sockets": 3,
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 12
+      }
+    ],
+    "type": "Cuirass"
+  },
+  {
+    "iLevel": 64,
+    "quality": "Normal",
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Flail"
+  },
+  {
+    "defense": 71,
+    "iLevel": 60,
+    "quality": "Superior",
+    "sockets": 2,
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 14
+      },
+      {
+        "name": "item_maxdurability_percent",
+        "value": 14
+      }
+    ],
+    "type": "Sallet"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Phase Blade"
+  },
+  {
+    "defense": 148,
+    "iLevel": 80,
+    "quality": "Normal",
+    "type": "Monarch"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Cryptic Sword"
+  },
+  {
+    "iLevel": 74,
+    "quality": "Normal",
+    "sockets": 3,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Wrist Sword"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Superior",
+    "sockets": 5,
+    "stats": [
+      {
+        "name": "item_maxdurability_percent",
+        "value": 15
+      },
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Flail"
+  },
+  {
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Hand Axe"
+  },
+  {
+    "defense": 5,
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Buckler"
+  },
+  {
+    "defense": 158,
+    "iLevel": 85,
+    "quality": "Normal",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 41
+      },
+      {
+        "name": "lightresist",
+        "value": 41
+      },
+      {
+        "name": "coldresist",
+        "value": 41
+      },
+      {
+        "name": "poisonresist",
+        "value": 41
+      }
+    ],
+    "type": "Kurast Shield"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Colossus Voulge"
+  }
+]

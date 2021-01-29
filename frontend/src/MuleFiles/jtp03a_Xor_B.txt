@@ -1,0 +1,1925 @@
+[
+  {
+    "defense": 60,
+    "iLevel": 79,
+    "name": "Boneweave Boots of Shock",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 16
+      }
+    ],
+    "type": "Boneweave Boots"
+  },
+  {
+    "defense": 24,
+    "iLevel": 38,
+    "isRuneword": true,
+    "quality": "Normal",
+    "runeword": "Lore",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Ort Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Sol Rune"
+      }
+    ],
+    "sockets": 2,
+    "stats": [
+      {
+        "name": "enr",
+        "range": {
+          "max": 10,
+          "min": 5
+        },
+        "value": 7
+      },
+      {
+        "name": "allskills",
+        "value": 1
+      },
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "mana-kill",
+        "value": 1
+      }
+    ],
+    "type": "Circlet"
+  },
+  {
+    "defense": 75,
+    "iLevel": 74,
+    "name": "The Atlantian",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "dur",
+        "value": 188
+      },
+      {
+        "name": "ac",
+        "value": 75
+      },
+      {
+        "name": "str",
+        "value": 16
+      },
+      {
+        "name": "dex",
+        "value": 12
+      },
+      {
+        "name": "vit",
+        "value": 8
+      },
+      {
+        "name": "dmg%",
+        "range": {
+          "max": 280,
+          "min": 200
+        },
+        "value": 16
+      },
+      {
+        "name": "pal",
+        "skill": "Paladin Skills",
+        "value": 2
+      },
+      {
+        "name": "att%",
+        "value": 50
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Ancient Sword"
+  },
+  {
+    "defense": 63,
+    "iLevel": 94,
+    "name": "Tearhaunch",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "ac",
+        "value": 63
+      },
+      {
+        "name": "str",
+        "value": 5
+      },
+      {
+        "name": "dex",
+        "value": 5
+      },
+      {
+        "name": "move2",
+        "value": 20
+      },
+      {
+        "name": "res-all",
+        "value": 10
+      },
+      {
+        "name": "skill"
+      }
+    ],
+    "type": "Greaves"
+  },
+  {
+    "defense": 53,
+    "iLevel": 85,
+    "name": "Strong Sharkskin Gloves of Wealth",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 33
+      },
+      {
+        "name": "item_goldbonus",
+        "value": 70
+      }
+    ],
+    "type": "Sharkskin Gloves"
+  },
+  {
+    "defense": 60,
+    "iLevel": 87,
+    "name": "Vampirebone Gloves of Regeneration",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "hpregen",
+        "value": 3
+      }
+    ],
+    "type": "Vampirebone Gloves"
+  },
+  {
+    "defense": 33,
+    "iLevel": 85,
+    "name": "Sharkskin Gloves of Nova Shield",
+    "quality": "Magic",
+    "stats": [
+    ],
+    "type": "Sharkskin Gloves"
+  },
+  {
+    "iLevel": 72,
+    "name": "Jewel of Knowledge",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "energy",
+        "value": 1
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "defense": 33,
+    "iLevel": 70,
+    "name": "Arctic Binding",
+    "quality": "Set",
+    "set": "Arctic Gear",
+    "stats": [
+      {
+        "name": "res-cold",
+        "value": 40
+      },
+      {
+        "name": "ac",
+        "value": 33
+      }
+    ],
+    "type": "Light Belt"
+  },
+  {
+    "iLevel": 69,
+    "name": "Ocher Small Charm of Vita",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 19
+      },
+      {
+        "name": "lightresist",
+        "value": 7
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 77,
+    "name": "Terra's Amulet",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addskill_tab",
+        "skill": "Elemental (Druid)",
+        "value": 2
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 85,
+    "name": "Emerald Jewel",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 6
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 88,
+    "name": "Ruins of Viz-Jun Map of Resilience",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "map_play_magicbonus",
+        "value": 38
+      },
+      {
+        "name": "map_play_goldbonus",
+        "value": 38
+      },
+      {
+        "name": "map_glob_density",
+        "value": 32
+      },
+      {
+        "name": "map_mon_fastergethitrate",
+        "value": 45
+      }
+    ],
+    "type": "Ruins of Viz-Jun Map"
+  },
+  {
+    "iLevel": 69,
+    "name": "Sapphire Jewel of Joyfulness",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "mindamage",
+        "value": 4
+      },
+      {
+        "name": "secondary_mindamage",
+        "value": 4
+      },
+      {
+        "name": "coldresist",
+        "value": 21
+      },
+      {
+        "name": "item_throw_mindamage",
+        "value": 4
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of the Icicle",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "coldmindam",
+        "value": 3
+      },
+      {
+        "name": "coldmaxdam",
+        "value": 8
+      },
+      {
+        "name": "coldlength",
+        "value": 50
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 1,
+    "isGem": true,
+    "quality": "Normal",
+    "type": "Perfect Sapphire"
+  },
+  {
+    "iLevel": 85,
+    "name": "Guardian's Amulet",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addskill_tab",
+        "skill": "Defensive Auras (Paladin)",
+        "value": 3
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 85,
+    "name": "Bright Jewel of Fervor",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "tohit",
+        "value": 10
+      },
+      {
+        "name": "item_lightradius",
+        "value": 1
+      },
+      {
+        "name": "item_fasterattackrate",
+        "value": 15
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 94,
+    "name": "Ruins of Viz-Jun Map of Opal",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "map_glob_density",
+        "value": 30
+      },
+      {
+        "name": "map_play_addexperience",
+        "value": 8
+      },
+      {
+        "name": "map_mon_absorblight_percent",
+        "value": 4
+      }
+    ],
+    "type": "Ruins of Viz-Jun Map"
+  },
+  {
+    "iLevel": 85,
+    "name": "Commander's Amulet",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addskill_tab",
+        "skill": "Offensive Auras (Paladin)",
+        "value": 2
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 85,
+    "name": "Garnet Jewel of Fervor",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 13
+      },
+      {
+        "name": "item_fasterattackrate",
+        "value": 15
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Passion",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "firemindam",
+        "value": 2
+      },
+      {
+        "name": "firemaxdam",
+        "value": 9
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 85,
+    "name": "Magekiller's Amulet of Memory",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addclassskills",
+        "skill": "Assassin Skills",
+        "value": 1
+      },
+      {
+        "name": "item_mana_perlevel",
+        "value": 6
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 88,
+    "name": "Fanatic Grand Charm of Storms",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 29
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Masteries (Barbarian)",
+        "value": 1
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "defense": 108,
+    "iLevel": 94,
+    "name": "Isenhart's Case",
+    "quality": "Set",
+    "set": "Isenhart's Armory",
+    "stats": [
+      {
+        "name": "ac",
+        "value": 108
+      },
+      {
+        "name": "red-mag",
+        "range": {
+          "max": 4,
+          "min": 2
+        },
+        "value": 2
+      }
+    ],
+    "type": "Breast Plate"
+  },
+  {
+    "iLevel": 94,
+    "name": "Aldur's Gauntlet",
+    "quality": "Set",
+    "set": "Aldur's Watchtower",
+    "sockets": 2,
+    "stats": [
+      {
+        "max": 62,
+        "min": 40,
+        "name": "Normal Damage Modifier"
+      },
+      {
+        "max": 75,
+        "min": 50,
+        "name": "Lightning Damage"
+      },
+      {
+        "name": "lifesteal",
+        "value": 10
+      },
+      {
+        "name": "swing3",
+        "value": 45
+      },
+      {
+        "name": "dmg-demon",
+        "range": {
+          "max": 250,
+          "min": 200
+        },
+        "value": 208
+      },
+      {
+        "name": "manasteal",
+        "value": 5
+      },
+      {
+        "name": "sock",
+        "range": {
+          "max": 3,
+          "min": 1
+        },
+        "value": 2
+      },
+      {
+        "name": "dmg-undead",
+        "range": {
+          "max": 200,
+          "min": 100
+        },
+        "value": 119
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Jagged Star"
+  },
+  {
+    "iLevel": 69,
+    "name": "Fletcher's Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addskill_tab",
+        "skill": "Bow and Crossbow Skills (Amazon)",
+        "value": 1
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 94,
+    "name": "Nord's Tenderizer",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "freeze",
+        "range": {
+          "max": 4,
+          "min": 2
+        },
+        "value": 4
+      },
+      {
+        "name": "swing2",
+        "value": 25
+      },
+      {
+        "charges": 12,
+        "level": 16,
+        "name": "Charged Skill",
+        "skill": "Blizzard"
+      },
+      {
+        "name": "att%",
+        "range": {
+          "max": 180,
+          "min": 150
+        },
+        "value": 162
+      },
+      {
+        "name": "abs-cold%",
+        "range": {
+          "max": 15,
+          "min": 5
+        },
+        "value": 5
+      },
+      {
+        "max": 455,
+        "min": 205,
+        "name": "Cold Damage"
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Truncheon"
+  },
+  {
+    "iLevel": 85,
+    "name": "Fine Large Charm of Inertia",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "tohit",
+        "value": 18
+      },
+      {
+        "name": "maxdamage",
+        "value": 3
+      },
+      {
+        "name": "secondary_maxdamage",
+        "value": 3
+      },
+      {
+        "name": "item_fastermovevelocity",
+        "value": 5
+      },
+      {
+        "name": "item_throw_maxdamage",
+        "value": 3
+      }
+    ],
+    "type": "Large Charm"
+  },
+  {
+    "defense": 415,
+    "iLevel": 87,
+    "quality": "Normal",
+    "sockets": 4,
+    "type": "Great Hauberk"
+  },
+  {
+    "iLevel": 85,
+    "name": "Fungal Grand Charm of Strength",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 4
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Poison and Bone Skills (Necromancer)",
+        "value": 1
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 88,
+    "name": "Nature's Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addskill_tab",
+        "skill": "Elemental (Druid)",
+        "value": 1
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 80,
+    "name": "Summoner's Amulet of Fortune",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 20
+      },
+      {
+        "name": "item_addclassskills",
+        "skill": "Necromancer Skills",
+        "value": 1
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 85,
+    "name": "Chromatic Amulet of Absorption",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "normal_damage_reduction",
+        "value": 3
+      },
+      {
+        "name": "fireresist",
+        "value": 30
+      },
+      {
+        "name": "lightresist",
+        "value": 30
+      },
+      {
+        "name": "coldresist",
+        "value": 30
+      },
+      {
+        "name": "poisonresist",
+        "value": 30
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 88,
+    "name": "King's Greater Talons of Might",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 5
+      },
+      {
+        "name": "item_maxdamage_percent",
+        "value": 100
+      },
+      {
+        "name": "item_mindamage_percent",
+        "value": 100
+      },
+      {
+        "name": "tohit",
+        "value": 136
+      },
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Greater Talons"
+  },
+  {
+    "defense": 702,
+    "iLevel": 94,
+    "name": "Atma's Wail",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "dex",
+        "value": 15
+      },
+      {
+        "name": "regen",
+        "range": {
+          "max": 20,
+          "min": 10
+        },
+        "value": 10
+      },
+      {
+        "name": "mana%",
+        "value": 15
+      },
+      {
+        "name": "balance2",
+        "value": 30
+      },
+      {
+        "name": "dur",
+        "value": 105
+      },
+      {
+        "name": "mag%",
+        "value": 20
+      },
+      {
+        "name": "allskills",
+        "value": 1
+      },
+      {
+        "name": "cast2",
+        "value": 20
+      }
+    ],
+    "type": "Embossed Plate"
+  },
+  {
+    "iLevel": 88,
+    "name": "Doom eye",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "energy",
+        "value": 15
+      },
+      {
+        "name": "tohit",
+        "value": 83
+      },
+      {
+        "name": "normal_damage_reduction",
+        "value": 2
+      },
+      {
+        "name": "item_goldbonus",
+        "value": 32
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 94,
+    "name": "Raven Frost",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "nofreeze",
+        "value": 1
+      },
+      {
+        "max": 45,
+        "min": 15,
+        "name": "Cold Damage"
+      },
+      {
+        "name": "abs-cold%",
+        "value": 20
+      },
+      {
+        "name": "mana",
+        "value": 40
+      },
+      {
+        "name": "dex",
+        "range": {
+          "max": 20,
+          "min": 15
+        },
+        "value": 20
+      },
+      {
+        "name": "att",
+        "range": {
+          "max": 250,
+          "min": 150
+        },
+        "value": 164
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 89,
+    "name": "Jewel",
+    "quality": "Magic",
+    "type": "Jewel",
+    "unidentified": true
+  },
+  {
+    "iLevel": 94,
+    "name": "Pierre Tombale Couant",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "deadly",
+        "value": 55
+      },
+      {
+        "name": "bar",
+        "skill": "Barbarian Skills",
+        "value": 3
+      },
+      {
+        "name": "balance2",
+        "value": 30
+      },
+      {
+        "name": "manasteal",
+        "value": 6
+      },
+      {
+        "name": "att",
+        "range": {
+          "max": 200,
+          "min": 100
+        },
+        "value": 107
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Partizan"
+  },
+  {
+    "iLevel": 94,
+    "name": "Bloodletter",
+    "quality": "Unique",
+    "stats": [
+      {
+        "max": 45,
+        "min": 12,
+        "name": "Normal Damage Modifier"
+      },
+      {
+        "name": "att",
+        "value": 90
+      },
+      {
+        "name": "lifesteal",
+        "value": 8
+      },
+      {
+        "name": "stamdrain",
+        "value": 10
+      },
+      {
+        "name": "swing2",
+        "value": -20
+      },
+      {
+        "name": "skill",
+        "range": {
+          "max": 4,
+          "min": 2
+        }
+      },
+      {
+        "name": "skill",
+        "range": {
+          "max": 3,
+          "min": 1
+        }
+      },
+      {
+        "name": "dur",
+        "value": 78
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Gladius"
+  },
+  {
+    "defense": 61,
+    "iLevel": 88,
+    "name": "Crimson Vambraces",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 8
+      }
+    ],
+    "type": "Vambraces"
+  },
+  {
+    "iLevel": 85,
+    "name": "Nagelring",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "red-mag",
+        "value": 3
+      },
+      {
+        "name": "thorns",
+        "value": 3
+      },
+      {
+        "name": "att",
+        "range": {
+          "max": 75,
+          "min": 50
+        },
+        "value": 67
+      },
+      {
+        "name": "mag%",
+        "range": {
+          "max": 40,
+          "min": 15
+        },
+        "value": 21
+      },
+      {
+        "name": "mana-kill",
+        "value": 1
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 87,
+    "quality": "Normal",
+    "type": "Phlegethon Map"
+  },
+  {
+    "defense": 190,
+    "iLevel": 85,
+    "name": "Homunculus",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "nec",
+        "skill": "Necromancer Skills",
+        "value": 2
+      },
+      {
+        "name": "block2",
+        "value": 30
+      },
+      {
+        "name": "block",
+        "value": 52
+      },
+      {
+        "name": "enr",
+        "value": 20
+      },
+      {
+        "name": "regen-mana",
+        "value": 33
+      },
+      {
+        "name": "mana-kill",
+        "range": {
+          "max": 5,
+          "min": 3
+        },
+        "value": 5
+      },
+      {
+        "name": "res-all",
+        "range": {
+          "max": 35,
+          "min": 25
+        },
+        "value": 28
+      }
+    ],
+    "type": "Hierophant Trophy"
+  },
+  {
+    "iLevel": 85,
+    "name": "Powered Amulet",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addskill_tab",
+        "skill": "Lightning Skills (Sorceress)",
+        "value": 3
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 81,
+    "name": "Communal Amulet of Guarding",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "magic_damage_reduction",
+        "value": 3
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Shapeshifting (Druid)",
+        "value": 3
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Fervor",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fasterattackrate",
+        "value": 15
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 85,
+    "name": "Small Charm of Balance",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastergethitrate",
+        "value": 5
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 94,
+    "name": "Large Phlegethon Map",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "map_glob_density",
+        "value": 32
+      },
+      {
+        "name": "map_play_addexperience",
+        "value": 9
+      },
+      {
+        "name": "map_mon_maxhp_percent",
+        "value": 20
+      }
+    ],
+    "type": "Phlegethon Map"
+  },
+  {
+    "iLevel": 94,
+    "quality": "Normal",
+    "type": "Burning Essence of Terror"
+  },
+  {
+    "iLevel": 87,
+    "name": "McAuley's Superstition",
+    "quality": "Set",
+    "set": "McAuley's Folly",
+    "stats": [
+      {
+        "name": "mana",
+        "value": 25
+      },
+      {
+        "name": "manasteal",
+        "value": 8
+      },
+      {
+        "name": "cast3",
+        "value": 20
+      },
+      {
+        "max": 75,
+        "min": 25,
+        "name": "Cold Damage"
+      }
+    ],
+    "type": "Bone Wand"
+  },
+  {
+    "iLevel": 89,
+    "name": "The Gavel of Pain",
+    "quality": "Unique",
+    "stats": [
+      {
+        "chance%": 15,
+        "level": 16,
+        "name": "Proc Skill on Hit"
+      },
+      {
+        "chance%": 5,
+        "level": 1,
+        "name": "Proc Skill on Get Hit"
+      },
+      {
+        "name": "thorns",
+        "value": 26
+      },
+      {
+        "max": 30,
+        "min": 12,
+        "name": "Normal Damage Modifier"
+      },
+      {
+        "charges": 3,
+        "level": 8,
+        "name": "Charged Skill"
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Martel de Fer"
+  },
+  {
+    "defense": 35,
+    "iLevel": 67,
+    "isRuneword": true,
+    "quality": "Normal",
+    "runeword": "Spirit",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Tal Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Thul Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Ort Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Amn Rune"
+      }
+    ],
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "balance3",
+        "value": 25
+      },
+      {
+        "name": "mana",
+        "range": {
+          "max": 82,
+          "min": 59
+        },
+        "value": 77
+      },
+      {
+        "name": "ac-miss",
+        "value": 250
+      },
+      {
+        "name": "vit",
+        "range": {
+          "max": 22,
+          "min": 11
+        },
+        "value": 15
+      },
+      {
+        "name": "cast3",
+        "range": {
+          "max": 35,
+          "min": 25
+        },
+        "value": 31
+      },
+      {
+        "name": "abs-mag",
+        "range": {
+          "max": 8,
+          "min": 3
+        },
+        "value": 7
+      },
+      {
+        "name": "allskills",
+        "value": 1
+      }
+    ],
+    "type": "Aerin Shield"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Avarice",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_goldbonus",
+        "value": 15
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 89,
+    "name": "Angel's Amulet",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_addclassskills",
+        "skill": "Sorceress Skills",
+        "value": 1
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 85,
+    "name": "Civerb's Icon",
+    "quality": "Set",
+    "set": "Civerb's Vestments",
+    "stats": [
+      {
+        "name": "regen-mana",
+        "value": 40
+      },
+      {
+        "name": "regen",
+        "range": {
+          "max": 20,
+          "min": 10
+        },
+        "value": 10
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "defense": 379,
+    "iLevel": 85,
+    "name": "Goldskin",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "res-all",
+        "value": 35
+      },
+      {
+        "name": "thorns",
+        "value": 10
+      },
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "gold%",
+        "value": 100
+      }
+    ],
+    "type": "Full Plate Mail"
+  },
+  {
+    "defense": 41,
+    "iLevel": 55,
+    "name": "Viper fringe",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 5
+      },
+      {
+        "name": "maxhp",
+        "value": 40
+      },
+      {
+        "name": "fireresist",
+        "value": 14
+      },
+      {
+        "name": "lightresist",
+        "value": 17
+      },
+      {
+        "name": "item_attackertakesdamage",
+        "value": 2
+      }
+    ],
+    "type": "War Belt"
+  },
+  {
+    "iLevel": 85,
+    "name": "Carbuncle Jewel of Knowledge",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "energy",
+        "value": 9
+      },
+      {
+        "name": "maxdamage",
+        "value": 4
+      },
+      {
+        "name": "secondary_maxdamage",
+        "value": 4
+      },
+      {
+        "name": "item_throw_maxdamage",
+        "value": 4
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 88,
+    "name": "Angelic Halo",
+    "quality": "Set",
+    "set": "Angelical Raiment",
+    "stats": [
+      {
+        "name": "regen",
+        "value": 6
+      },
+      {
+        "name": "hp",
+        "value": 20
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 94,
+    "name": "The Impaler",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "ignore-ac",
+        "value": 1
+      },
+      {
+        "name": "att",
+        "value": 150
+      },
+      {
+        "name": "swing2",
+        "value": 20
+      },
+      {
+        "name": "openwounds",
+        "value": 40
+      },
+      {
+        "name": "noheal",
+        "value": 1
+      },
+      {
+        "name": "oskill",
+        "range": {
+          "max": 6,
+          "min": 4
+        }
+      },
+      {
+        "name": "oskill",
+        "range": {
+          "max": 4,
+          "min": 3
+        }
+      },
+      {
+        "name": "oskill",
+        "range": {
+          "max": 6,
+          "min": 4
+        }
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "War Spear"
+  },
+  {
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Hand Axe"
+  },
+  {
+    "defense": 6,
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Buckler"
+  },
+  {
+    "iLevel": 85,
+    "isEthereal": true,
+    "quality": "Normal",
+    "sockets": 3,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Mythical Sword"
+  },
+  {
+    "iLevel": 88,
+    "name": "Cruel Ceremonial Javelin of Concentration",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_maxdamage_percent",
+        "value": 280
+      },
+      {
+        "name": "item_mindamage_percent",
+        "value": 280
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Javalin and Spear Skills (Amazon)",
+        "value": 3
+      },
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Ceremonial Javelin"
+  },
+  {
+    "defense": 106,
+    "iLevel": 72,
+    "name": "Blessed Vampirebone Gloves",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 61
+      }
+    ],
+    "type": "Vampirebone Gloves"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 5,
+    "stats": [
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Phase Blade"
+  },
+  {
+    "iLevel": 94,
+    "name": "Bloodthief",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "openwounds",
+        "value": 35
+      },
+      {
+        "name": "str",
+        "value": 10
+      },
+      {
+        "name": "lifesteal",
+        "range": {
+          "max": 12,
+          "min": 8
+        },
+        "value": 10
+      },
+      {
+        "name": "hp",
+        "value": 26
+      },
+      {
+        "name": "dmg%",
+        "range": {
+          "max": 110,
+          "min": 50
+        },
+        "value": 10
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Brandistock"
+  },
+  {
+    "defense": 5,
+    "iLevel": 94,
+    "name": "McAuley's Riprap",
+    "quality": "Set",
+    "set": "McAuley's Folly",
+    "stats": [
+      {
+        "name": "move3",
+        "value": 40
+      },
+      {
+        "name": "att",
+        "value": 100
+      },
+      {
+        "name": "str",
+        "value": 5
+      },
+      {
+        "name": "dex",
+        "value": 10
+      }
+    ],
+    "type": "Heavy Boots"
+  },
+  {
+    "defense": 47,
+    "iLevel": 88,
+    "quality": "Normal",
+    "sockets": 2,
+    "type": "Tiara"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Joyfulness",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "mindamage",
+        "value": 4
+      },
+      {
+        "name": "secondary_mindamage",
+        "value": 4
+      },
+      {
+        "name": "item_throw_mindamage",
+        "value": 4
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Carnage",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxdamage",
+        "value": 15
+      },
+      {
+        "name": "secondary_maxdamage",
+        "value": 15
+      },
+      {
+        "name": "item_throw_maxdamage",
+        "value": 15
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Virility",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 5
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "defense": 138,
+    "iLevel": 94,
+    "name": "Sparking Mail",
+    "quality": "Unique",
+    "stats": [
+      {
+        "max": 30,
+        "min": 1,
+        "name": "Lightning Damage"
+      },
+      {
+        "name": "light-thorns",
+        "range": {
+          "max": 28,
+          "min": 20
+        },
+        "value": 24
+      },
+      {
+        "name": "res-ltng",
+        "value": 30
+      },
+      {
+        "name": "extra-ltng",
+        "range": {
+          "max": 8,
+          "min": 4
+        },
+        "value": 5
+      }
+    ],
+    "type": "Chain Mail"
+  },
+  {
+    "defense": 45,
+    "iLevel": 72,
+    "name": "Arctic Furs",
+    "quality": "Set",
+    "set": "Arctic Gear",
+    "stats": [
+      {
+        "name": "res-all",
+        "value": 10
+      }
+    ],
+    "type": "Quilted Armor"
+  },
+  {
+    "iLevel": 89,
+    "name": "Infernal Spire",
+    "quality": "Set",
+    "set": "Infernal Tools",
+    "stats": [
+      {
+        "name": "nec",
+        "skill": "Necromancer Skills",
+        "value": 1
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Dagger"
+  },
+  {
+    "iLevel": 88,
+    "name": "Death's Touch",
+    "quality": "Set",
+    "set": "Death's Disguise",
+    "stats": [
+      {
+        "name": "lifesteal",
+        "value": 4
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "War Sword"
+  },
+  {
+    "defense": 148,
+    "iLevel": 88,
+    "name": "Trang-Oul's Girth",
+    "quality": "Set",
+    "set": "Trang-Oul's Avatar",
+    "stats": [
+      {
+        "name": "ac",
+        "range": {
+          "max": 100,
+          "min": 75
+        },
+        "value": 148
+      },
+      {
+        "name": "stam",
+        "value": 30
+      },
+      {
+        "name": "regen",
+        "range": {
+          "max": 20,
+          "min": 10
+        },
+        "value": 11
+      },
+      {
+        "name": "hp",
+        "range": {
+          "max": 76,
+          "min": 56
+        },
+        "value": 71
+      },
+      {
+        "name": "nofreeze",
+        "value": 1
+      },
+      {
+        "name": "ease",
+        "value": -40
+      },
+      {
+        "name": "mana",
+        "range": {
+          "max": 50,
+          "min": 25
+        },
+        "value": 31
+      }
+    ],
+    "type": "Troll Belt"
+  },
+  {
+    "iLevel": 85,
+    "name": "Amulet of the Apprentice",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastercastrate",
+        "value": 10
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 88,
+    "name": "Spellsteel",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "ease",
+        "value": -60
+      },
+      {
+        "name": "mana",
+        "value": 100
+      },
+      {
+        "name": "red-mag",
+        "range": {
+          "max": 15,
+          "min": 12
+        },
+        "value": 15
+      },
+      {
+        "name": "cast1",
+        "value": 30
+      },
+      {
+        "name": "regen-mana",
+        "value": 25
+      },
+      {
+        "charges": 20,
+        "level": 1,
+        "name": "Charged Skill"
+      },
+      {
+        "charges": 60,
+        "level": 18,
+        "name": "Charged Skill"
+      },
+      {
+        "charges": 100,
+        "level": 10,
+        "name": "Charged Skill"
+      },
+      {
+        "charges": 60,
+        "level": 12,
+        "name": "Charged Skill"
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Bearded Axe"
+  },
+  {
+    "iLevel": 85,
+    "name": "Skystrike",
+    "quality": "Unique",
+    "stats": [
+      {
+        "max": 250,
+        "min": 1,
+        "name": "Lightning Damage"
+      },
+      {
+        "name": "att",
+        "value": 100
+      },
+      {
+        "name": "enr",
+        "value": 10
+      },
+      {
+        "name": "swing3",
+        "value": 30
+      },
+      {
+        "chance%": 8,
+        "level": 6,
+        "name": "Proc Skill on Hit"
+      },
+      {
+        "name": "ama",
+        "range": {
+          "max": 2,
+          "min": 1
+        },
+        "skill": "Amazon Skills",
+        "value": 2
+      }
+    ],
+    "type": "Edge Bow"
+  }
+]

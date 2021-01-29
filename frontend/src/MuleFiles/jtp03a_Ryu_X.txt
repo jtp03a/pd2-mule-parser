@@ -1,0 +1,1421 @@
+[
+  {
+    "iLevel": 2,
+    "name": "Tangerine Grand Charm of Life",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 9
+      },
+      {
+        "name": "lightresist",
+        "value": 12
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 5,
+    "name": "Beryl Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "poisonresist",
+        "value": 15
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 17,
+    "name": "Azure Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "coldresist",
+        "value": 11
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 27,
+    "name": "Garnet Grand Charm of Inertia",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 21
+      },
+      {
+        "name": "item_fastermovevelocity",
+        "value": 7
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 28,
+    "name": "Ocher Small Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightresist",
+        "value": 6
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 24,
+    "name": "Viridian Small Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "poisonresist",
+        "value": 6
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 61,
+    "name": "Jade Small Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "poisonresist",
+        "value": 8
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Serpent's Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxmana",
+        "value": 58
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Small Charm of Fortune",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 4
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Sharp Large Charm of Inertia",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "tohit",
+        "value": 36
+      },
+      {
+        "name": "maxdamage",
+        "value": 6
+      },
+      {
+        "name": "secondary_maxdamage",
+        "value": 6
+      },
+      {
+        "name": "item_fastermovevelocity",
+        "value": 5
+      },
+      {
+        "name": "item_throw_maxdamage",
+        "value": 6
+      }
+    ],
+    "type": "Large Charm"
+  },
+  {
+    "iLevel": 6,
+    "name": "Russet Small Charm of Dexterity",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "dexterity",
+        "value": 1
+      },
+      {
+        "name": "fireresist",
+        "value": 6
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Russet Small Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 6
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Small Charm of Fortune",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 5
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jade Small Charm of Storms",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "poisonresist",
+        "value": 8
+      },
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 19
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Coral Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightresist",
+        "value": 21
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Bronze Small Charm of Fortune",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "tohit",
+        "value": 4
+      },
+      {
+        "name": "item_magicbonus",
+        "value": 3
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 88,
+    "name": "Small Charm of Vita",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 19
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Small Charm of Vita",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 18
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 70,
+    "name": "Small Charm of Balance",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastergethitrate",
+        "value": 5
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Small Charm of Inertia",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastermovevelocity",
+        "value": 3
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 87,
+    "name": "Russet Grand Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 19
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "iLevel": 88,
+    "name": "Small Charm of Inertia",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastermovevelocity",
+        "value": 3
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "count": 2,
+    "iLevel": 85,
+    "name": "Small Charm of Good Luck",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 7
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 85,
+    "name": "Garnet Small Charm",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "fireresist",
+        "value": 9
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "defense": 130,
+    "iLevel": 79,
+    "isRuneword": true,
+    "quality": "Normal",
+    "runeword": "Lore",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Ort Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Sol Rune"
+      }
+    ],
+    "sockets": 2,
+    "stats": [
+      {
+        "name": "enr",
+        "range": {
+          "max": 10,
+          "min": 5
+        },
+        "value": 10
+      },
+      {
+        "name": "allskills",
+        "value": 1
+      },
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "mana-kill",
+        "value": 1
+      }
+    ],
+    "type": "Shako"
+  },
+  {
+    "iLevel": 67,
+    "name": "Rose Branded Amulet of the Colosuss",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 42
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Combat Skills (Paladin)",
+        "value": 3
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "defense": 922,
+    "iLevel": 94,
+    "name": "Griswold's Heart",
+    "quality": "Set",
+    "set": "Griswold's Legacy",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isGem": true,
+        "quality": "Normal",
+        "type": "Flawless Topaz"
+      },
+      {
+        "iLevel": 1,
+        "isGem": true,
+        "quality": "Normal",
+        "type": "Flawless Topaz"
+      },
+      {
+        "iLevel": 1,
+        "isGem": true,
+        "quality": "Normal",
+        "type": "Flawless Topaz"
+      }
+    ],
+    "sockets": 3,
+    "stats": [
+      {
+        "name": "ac",
+        "value": 922
+      },
+      {
+        "name": "pal",
+        "range": {
+          "max": 2,
+          "min": 1
+        },
+        "skill": "Paladin Skills",
+        "value": 2
+      },
+      {
+        "name": "sock",
+        "range": {
+          "max": 3,
+          "min": 2
+        },
+        "value": 3
+      },
+      {
+        "name": "str",
+        "range": {
+          "max": 20,
+          "min": 10
+        },
+        "value": 20
+      },
+      {
+        "name": "ease",
+        "value": -40
+      }
+    ],
+    "type": "Ornate Plate"
+  },
+  {
+    "iLevel": 41,
+    "name": "Cobalt Ring of the Apprentice",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "coldresist",
+        "value": 21
+      },
+      {
+        "name": "item_fastercastrate",
+        "value": 10
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 30,
+    "name": "Eagle knot",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 2
+      },
+      {
+        "name": "maxmana",
+        "value": 25
+      },
+      {
+        "name": "tohit",
+        "value": 39
+      },
+      {
+        "name": "item_fastercastrate",
+        "value": 10
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "defense": 59,
+    "iLevel": 83,
+    "name": "Storm harness",
+    "quality": "Crafted",
+    "stats": [
+      {
+        "name": "maxmana",
+        "value": 11
+      },
+      {
+        "name": "item_armor_percent",
+        "value": 60
+      },
+      {
+        "name": "manarecoverybonus",
+        "value": 4
+      },
+      {
+        "name": "poisonresist",
+        "value": 13
+      },
+      {
+        "name": "hpregen",
+        "value": 5
+      },
+      {
+        "name": "item_fastercastrate",
+        "value": 8
+      }
+    ],
+    "type": "Sharkskin Belt"
+  },
+  {
+    "defense": 30,
+    "iLevel": 64,
+    "name": "Cow King's Hoofs",
+    "quality": "Set",
+    "set": "Cow King's Leathers",
+    "stats": [
+      {
+        "name": "ac",
+        "range": {
+          "max": 35,
+          "min": 25
+        },
+        "value": 30
+      },
+      {
+        "name": "move3",
+        "value": 30
+      },
+      {
+        "name": "mag%",
+        "value": 25
+      },
+      {
+        "name": "dex",
+        "value": 20
+      },
+      {
+        "max": 35,
+        "min": 25,
+        "name": "Fire Damage"
+      }
+    ],
+    "type": "Heavy Boots"
+  },
+  {
+    "defense": 27,
+    "iLevel": 69,
+    "name": "Chance Guards",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "gold%",
+        "value": 200
+      },
+      {
+        "name": "mag%",
+        "range": {
+          "max": 40,
+          "min": 25
+        },
+        "value": 26
+      },
+      {
+        "name": "att",
+        "value": 25
+      },
+      {
+        "name": "ac",
+        "value": 27
+      },
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "mana-kill",
+        "range": {
+          "max": 2,
+          "min": 1
+        },
+        "value": 2
+      }
+    ],
+    "type": "Chain Gloves"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "Key"
+  },
+  {
+    "iLevel": 69,
+    "quality": "Normal",
+    "type": "Flawless Ruby"
+  },
+  {
+    "iLevel": 57,
+    "quality": "Normal",
+    "type": "Flawless Topaz"
+  },
+  {
+    "iLevel": 72,
+    "quality": "Normal",
+    "type": "Flawless Emerald"
+  },
+  {
+    "iLevel": 44,
+    "quality": "Normal",
+    "type": "Flawless Diamond"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "Flawless Amethyst"
+  },
+  {
+    "iLevel": 55,
+    "quality": "Normal",
+    "type": "Flawless Sapphire"
+  },
+  {
+    "iLevel": 70,
+    "quality": "Normal",
+    "type": "ÿc;Worldstone Shardÿc\/"
+  },
+  {
+    "iLevel": 88,
+    "quality": "Normal",
+    "type": "ÿc8Eth Rune"
+  },
+  {
+    "iLevel": 89,
+    "quality": "Normal",
+    "type": "ÿc8Ort Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Thul Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Ith Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Amn Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Eld Rune"
+  },
+  {
+    "iLevel": 73,
+    "quality": "Normal",
+    "type": "ÿc8Shael Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Dol Rune"
+  },
+  {
+    "iLevel": 13,
+    "quality": "Normal",
+    "type": "Horadric Cube"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Hel Rune"
+  },
+  {
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Mephisto's Soulstone"
+  },
+  {
+    "iLevel": 94,
+    "name": "Storm mask",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "map_play_magicbonus",
+        "value": 45
+      },
+      {
+        "name": "map_play_goldbonus",
+        "value": 45
+      },
+      {
+        "name": "map_glob_density",
+        "value": 144
+      },
+      {
+        "name": "map_play_addexperience",
+        "value": 27
+      },
+      {
+        "name": "map_mon_absorbfire_percent",
+        "value": 5
+      },
+      {
+        "name": "map_mon_maxhp_percent",
+        "value": 16
+      },
+      {
+        "name": "map_play_fireresist",
+        "value": -11
+      },
+      {
+        "name": "map_play_lightresist",
+        "value": -11
+      },
+      {
+        "name": "map_play_coldresist",
+        "value": -11
+      },
+      {
+        "name": "map_play_poisonresist",
+        "value": -11
+      },
+      {
+        "name": "map_mon_phys_as_extra_cold",
+        "value": 71
+      },
+      {
+        "name": "map_glob_add_mon_doll",
+        "value": 690
+      }
+    ],
+    "type": "Ruins of Viz-Jun Map"
+  },
+  {
+    "iLevel": 94,
+    "name": "Beast brow",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "map_play_magicbonus",
+        "value": 148
+      },
+      {
+        "name": "map_play_goldbonus",
+        "value": 148
+      },
+      {
+        "name": "map_glob_density",
+        "value": 110
+      },
+      {
+        "name": "map_play_addexperience",
+        "value": 19
+      },
+      {
+        "name": "map_glob_arealevel",
+        "value": 1
+      },
+      {
+        "name": "map_mon_passive_cold_mastery",
+        "value": 5
+      },
+      {
+        "name": "map_mon_velocitypercent",
+        "value": 16
+      },
+      {
+        "name": "map_mon_maxhp_percent",
+        "value": 14
+      },
+      {
+        "name": "map_mon_curse_resistance",
+        "value": 14
+      },
+      {
+        "name": "map_glob_add_mon_succ",
+        "value": 720
+      }
+    ],
+    "type": "Ruins of Viz-Jun Map"
+  },
+  {
+    "defense": 110,
+    "iLevel": 80,
+    "name": "Tal Rasha's Horadric Crest",
+    "quality": "Set",
+    "set": "Tal Rasha's Wrappings",
+    "stats": [
+      {
+        "name": "mana",
+        "range": {
+          "max": 35,
+          "min": 25
+        },
+        "value": 32
+      },
+      {
+        "name": "hp",
+        "range": {
+          "max": 65,
+          "min": 50
+        },
+        "value": 58
+      },
+      {
+        "name": "ac",
+        "value": 110
+      },
+      {
+        "name": "res-all",
+        "range": {
+          "max": 20,
+          "min": 10
+        },
+        "value": 11
+      },
+      {
+        "name": "lifesteal",
+        "range": {
+          "max": 10,
+          "min": 6
+        },
+        "value": 8
+      },
+      {
+        "name": "manasteal",
+        "range": {
+          "max": 10,
+          "min": 6
+        },
+        "value": 6
+      }
+    ],
+    "type": "Death Mask"
+  },
+  {
+    "defense": 99,
+    "iLevel": 88,
+    "name": "Razortail",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "dex",
+        "value": 15
+      },
+      {
+        "name": "pierce",
+        "value": 33
+      },
+      {
+        "name": "ac",
+        "value": 99
+      }
+    ],
+    "type": "Sharkskin Belt"
+  },
+  {
+    "defense": 9,
+    "iLevel": 94,
+    "name": "Cleglaw's Pincers",
+    "quality": "Set",
+    "set": "Cleglaw's Brace",
+    "stats": [
+      {
+        "name": "knock",
+        "value": 1
+      },
+      {
+        "name": "slow",
+        "value": 25
+      },
+      {
+        "name": "pois-min",
+        "value": 52
+      },
+      {
+        "name": "pois-max",
+        "value": 52
+      },
+      {
+        "name": "pois-len",
+        "value": 75
+      }
+    ],
+    "type": "Chain Gloves"
+  },
+  {
+    "iLevel": 69,
+    "quality": "Normal",
+    "type": "ÿc8Tir Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Ral Rune"
+  },
+  {
+    "iLevel": 69,
+    "quality": "Normal",
+    "type": "ÿc8Tal Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Sol Rune"
+  },
+  {
+    "count": 2,
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "Ruins of Viz-Jun Map"
+  },
+  {
+    "defense": 933,
+    "iLevel": 85,
+    "name": "Tal Rasha's Howling Wind",
+    "quality": "Set",
+    "set": "Tal Rasha's Wrappings",
+    "stats": [
+      {
+        "name": "ease",
+        "value": -60
+      },
+      {
+        "name": "red-mag",
+        "range": {
+          "max": 17,
+          "min": 10
+        },
+        "value": 10
+      },
+      {
+        "name": "mag%",
+        "range": {
+          "max": 100,
+          "min": 60
+        },
+        "value": 86
+      },
+      {
+        "name": "res-cold",
+        "value": 40
+      },
+      {
+        "name": "res-fire",
+        "value": 40
+      },
+      {
+        "name": "res-ltng",
+        "value": 40
+      },
+      {
+        "name": "ac",
+        "value": 933
+      }
+    ],
+    "type": "Lacquered Plate"
+  },
+  {
+    "iLevel": 85,
+    "name": "Bloodrise",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "att%",
+        "value": 50
+      },
+      {
+        "name": "openwounds",
+        "value": 25
+      },
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "swing1",
+        "range": {
+          "max": 30,
+          "min": 10
+        },
+        "value": 22
+      },
+      {
+        "name": "skill"
+      },
+      {
+        "name": "lifesteal",
+        "range": {
+          "max": 6,
+          "min": 4
+        },
+        "value": 6
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Morning Star"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Superior",
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "item_maxdamage_percent",
+        "value": 15
+      },
+      {
+        "name": "item_mindamage_percent",
+        "value": 15
+      },
+      {
+        "name": "item_maxdurability_percent",
+        "value": 12
+      },
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Flail"
+  },
+  {
+    "iLevel": 88,
+    "quality": "Normal",
+    "type": "ÿc8Gul Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Pul Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Ko Rune"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "ÿc8Lum Rune"
+  },
+  {
+    "iLevel": 85,
+    "name": "Nature's Peace",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "noheal",
+        "value": 1
+      },
+      {
+        "name": "slain monsters' corpses can't be used",
+        "value": 1
+      },
+      {
+        "name": "red-dmg",
+        "range": {
+          "max": 11,
+          "min": 7
+        },
+        "value": 9
+      },
+      {
+        "name": "res-ltng-max",
+        "range": {
+          "max": 3,
+          "min": 1
+        },
+        "value": 2
+      },
+      {
+        "name": "res-cold-max",
+        "range": {
+          "max": 3,
+          "min": 1
+        },
+        "value": 2
+      },
+      {
+        "name": "res-fire-max",
+        "range": {
+          "max": 3,
+          "min": 1
+        },
+        "value": 1
+      },
+      {
+        "name": "res-pois-max",
+        "range": {
+          "max": 3,
+          "min": 1
+        },
+        "value": 3
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "defense": 111,
+    "iLevel": 85,
+    "quality": "Normal",
+    "sockets": 2,
+    "type": "Shako"
+  },
+  {
+    "defense": 94,
+    "iLevel": 85,
+    "name": "Arcanna's Flesh",
+    "quality": "Set",
+    "set": "Arcanna's Tricks",
+    "stats": [
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "red-dmg",
+        "range": {
+          "max": 6,
+          "min": 3
+        },
+        "value": 5
+      },
+      {
+        "name": "cast2",
+        "value": 10
+      }
+    ],
+    "type": "Light Plate"
+  },
+  {
+    "iLevel": 85,
+    "quality": "Normal",
+    "type": "Flawless Ruby"
+  },
+  {
+    "defense": 26,
+    "iLevel": 94,
+    "name": "McAuley's Taboo",
+    "quality": "Set",
+    "set": "McAuley's Folly",
+    "stats": [
+      {
+        "name": "ac",
+        "range": {
+          "max": 25,
+          "min": 20
+        },
+        "value": 26
+      },
+      {
+        "name": "swing2",
+        "value": 20
+      },
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "max": 113,
+        "min": 92,
+        "name": "Poison Damage"
+      }
+    ],
+    "type": "Heavy Gloves"
+  },
+  {
+    "iLevel": 60,
+    "name": "Blade of Ali Baba",
+    "quality": "Unique",
+    "sockets": 2,
+    "stats": [
+      {
+        "name": "mana",
+        "value": 15
+      },
+      {
+        "name": "dex",
+        "range": {
+          "max": 15,
+          "min": 5
+        },
+        "value": 5
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Tulwar"
+  },
+  {
+    "defense": 44,
+    "iLevel": 27,
+    "name": "Milabrega's Orb",
+    "quality": "Set",
+    "set": "Milabrega's Regalia",
+    "stats": [
+      {
+        "name": "mag%",
+        "range": {
+          "max": 60,
+          "min": 20
+        },
+        "value": 39
+      },
+      {
+        "name": "ac",
+        "value": 44
+      },
+      {
+        "name": "hp",
+        "value": 50
+      }
+    ],
+    "type": "Kite Shield"
+  },
+  {
+    "iLevel": 39,
+    "isRuneword": true,
+    "quality": "Normal",
+    "runeword": "Spirit",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Tal Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Thul Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Ort Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Amn Rune"
+      }
+    ],
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "balance3",
+        "value": 25
+      },
+      {
+        "name": "mana",
+        "range": {
+          "max": 82,
+          "min": 59
+        },
+        "value": 81
+      },
+      {
+        "name": "ac-miss",
+        "value": 250
+      },
+      {
+        "name": "vit",
+        "range": {
+          "max": 22,
+          "min": 11
+        },
+        "value": 22
+      },
+      {
+        "name": "cast3",
+        "range": {
+          "max": 35,
+          "min": 25
+        },
+        "value": 26
+      },
+      {
+        "name": "abs-mag",
+        "range": {
+          "max": 8,
+          "min": 3
+        },
+        "value": 4
+      },
+      {
+        "name": "allskills",
+        "value": 1
+      }
+    ],
+    "type": "Long Sword"
+  },
+  {
+    "defense": 182,
+    "iLevel": 87,
+    "isRuneword": true,
+    "quality": "Superior",
+    "runeword": "Spirit",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Tal Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Thul Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Ort Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Amn Rune"
+      }
+    ],
+    "sockets": 4,
+    "stats": [
+      {
+        "name": "balance3",
+        "value": 25
+      },
+      {
+        "name": "mana",
+        "range": {
+          "max": 82,
+          "min": 59
+        },
+        "value": 73
+      },
+      {
+        "name": "ac-miss",
+        "value": 250
+      },
+      {
+        "name": "vit",
+        "range": {
+          "max": 22,
+          "min": 11
+        },
+        "value": 15
+      },
+      {
+        "name": "cast3",
+        "range": {
+          "max": 35,
+          "min": 25
+        },
+        "value": 27
+      },
+      {
+        "name": "abs-mag",
+        "range": {
+          "max": 8,
+          "min": 3
+        },
+        "value": 8
+      },
+      {
+        "name": "allskills",
+        "value": 1
+      }
+    ],
+    "type": "Sacred Targe"
+  },
+  {
+    "iLevel": 94,
+    "isEthereal": true,
+    "quality": "Rare",
+    "type": "War Spear",
+    "unidentified": true
+  },
+  {
+    "iLevel": 94,
+    "quality": "Rare",
+    "type": "Voulge",
+    "unidentified": true
+  }
+]

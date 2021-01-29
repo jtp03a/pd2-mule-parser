@@ -1,0 +1,1684 @@
+[
+  {
+    "defense": 30,
+    "iLevel": 47,
+    "name": "Circlet of Speed",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastermovevelocity",
+        "value": 30
+      }
+    ],
+    "type": "Circlet"
+  },
+  {
+    "defense": 8,
+    "iLevel": 30,
+    "name": "Hsarus' Iron Heel",
+    "quality": "Set",
+    "set": "Hsarus' Defense",
+    "stats": [
+      {
+        "name": "res-fire",
+        "value": 25
+      },
+      {
+        "name": "move2",
+        "value": 20
+      }
+    ],
+    "type": "Chain Boots"
+  },
+  {
+    "iLevel": 51,
+    "name": "Blood song",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "item_maxdamage_percent",
+        "value": 102
+      },
+      {
+        "name": "item_mindamage_percent",
+        "value": 102
+      },
+      {
+        "name": "tohit",
+        "value": 36
+      },
+      {
+        "name": "mindamage",
+        "value": 4
+      },
+      {
+        "name": "lightresist",
+        "value": 10
+      },
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Greater Claws"
+  },
+  {
+    "iLevel": 39,
+    "name": "Angelic Sickle",
+    "quality": "Set",
+    "set": "Angelical Raiment",
+    "stats": [
+      {
+        "name": "att",
+        "value": 75
+      },
+      {
+        "name": "dmg-undead",
+        "value": 250
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Sabre"
+  },
+  {
+    "iLevel": 62,
+    "name": "The Vile Husk",
+    "quality": "Unique",
+    "stats": [
+      {
+        "chance%": 6,
+        "level": 18,
+        "name": "Proc Skill on Hit"
+      },
+      {
+        "name": "res-pois",
+        "value": 50
+      },
+      {
+        "max": 1280,
+        "min": 1280,
+        "name": "Poison Damage"
+      },
+      {
+        "name": "swing2",
+        "value": 20
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Tusk Sword"
+  },
+  {
+    "iLevel": 46,
+    "name": "Griswolds Edge",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "fire-min",
+        "range": {
+          "max": 12,
+          "min": 10
+        },
+        "value": 10
+      },
+      {
+        "name": "fire-max",
+        "range": {
+          "max": 25,
+          "min": 15
+        },
+        "value": 22
+      },
+      {
+        "name": "att",
+        "value": 100
+      },
+      {
+        "name": "swing1",
+        "value": 30
+      },
+      {
+        "name": "dmg%",
+        "range": {
+          "max": 120,
+          "min": 80
+        },
+        "value": 12
+      },
+      {
+        "name": "str",
+        "value": 12
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Broad Sword"
+  },
+  {
+    "iLevel": 50,
+    "name": "Bronze Small Charm of Thunder",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "tohit",
+        "value": 9
+      },
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 11
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "defense": 36,
+    "iLevel": 72,
+    "name": "Sharkskin Boots",
+    "quality": "Magic",
+    "type": "Sharkskin Boots",
+    "unidentified": true
+  },
+  {
+    "defense": 132,
+    "iLevel": 62,
+    "name": "Venomsward",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "res-pois-max",
+        "value": 15
+      },
+      {
+        "name": "res-pois-len",
+        "value": 50
+      },
+      {
+        "name": "res-pois",
+        "range": {
+          "max": 90,
+          "min": 45
+        },
+        "value": 47
+      },
+      {
+        "name": "light",
+        "value": 2
+      },
+      {
+        "name": "Negates % of Enemy Poison Resistance",
+        "range": {
+          "max": 15,
+          "min": 5
+        },
+        "value": 5
+      }
+    ],
+    "type": "Breast Plate"
+  },
+  {
+    "iLevel": 40,
+    "name": "Vidala's Barb",
+    "quality": "Set",
+    "set": "Vidala's Rig",
+    "stats": [
+      {
+        "name": "ltng-min",
+        "value": 1
+      },
+      {
+        "name": "ltng-max",
+        "value": 45
+      }
+    ],
+    "type": "Long Battle Bow"
+  },
+  {
+    "iLevel": 85,
+    "name": "Aldur's Gauntlet",
+    "quality": "Set",
+    "set": "Aldur's Watchtower",
+    "sockets": 2,
+    "stats": [
+      {
+        "max": 62,
+        "min": 40,
+        "name": "Normal Damage Modifier"
+      },
+      {
+        "max": 75,
+        "min": 50,
+        "name": "Lightning Damage"
+      },
+      {
+        "name": "lifesteal",
+        "value": 10
+      },
+      {
+        "name": "swing3",
+        "value": 45
+      },
+      {
+        "name": "dmg-demon",
+        "range": {
+          "max": 250,
+          "min": 200
+        },
+        "value": 230
+      },
+      {
+        "name": "manasteal",
+        "value": 5
+      },
+      {
+        "name": "sock",
+        "range": {
+          "max": 3,
+          "min": 1
+        },
+        "value": 2
+      },
+      {
+        "name": "dmg-undead",
+        "range": {
+          "max": 200,
+          "min": 100
+        },
+        "value": 161
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Jagged Star"
+  },
+  {
+    "defense": 10,
+    "iLevel": 37,
+    "name": "Sigon's Wrap",
+    "quality": "Set",
+    "set": "Sigon's Complete Steel",
+    "stats": [
+      {
+        "name": "res-fire",
+        "value": 20
+      },
+      {
+        "name": "hp",
+        "value": 20
+      }
+    ],
+    "type": "Plated Belt"
+  },
+  {
+    "defense": 55,
+    "iLevel": 39,
+    "name": "Sigon's Visor",
+    "quality": "Set",
+    "set": "Sigon's Complete Steel",
+    "stats": [
+      {
+        "name": "mana",
+        "value": 30
+      },
+      {
+        "name": "ac",
+        "value": 55
+      }
+    ],
+    "type": "Great Helm"
+  },
+  {
+    "defense": 30,
+    "iLevel": 35,
+    "name": "Spirit mask",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "normal_damage_reduction",
+        "value": 3
+      },
+      {
+        "name": "poisonresist",
+        "value": 23
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Traps (Assassin)",
+        "value": 1
+      }
+    ],
+    "type": "Circlet"
+  },
+  {
+    "defense": 91,
+    "iLevel": 40,
+    "name": "Berserker's Hauberk",
+    "quality": "Set",
+    "set": "Berserker's Garb",
+    "stats": [
+      {
+        "name": "red-mag",
+        "value": 2
+      },
+      {
+        "name": "bar",
+        "skill": "Barbarian Skills",
+        "value": 1
+      }
+    ],
+    "type": "Splint Mail"
+  },
+  {
+    "defense": 13,
+    "iLevel": 72,
+    "name": "Sigon's Sabot",
+    "quality": "Set",
+    "set": "Sigon's Complete Steel",
+    "stats": [
+      {
+        "name": "move2",
+        "value": 20
+      },
+      {
+        "name": "res-cold",
+        "value": 40
+      }
+    ],
+    "type": "Greaves"
+  },
+  {
+    "iLevel": 49,
+    "name": "Angelic Halo",
+    "quality": "Set",
+    "set": "Angelical Raiment",
+    "stats": [
+      {
+        "name": "regen",
+        "value": 6
+      },
+      {
+        "name": "hp",
+        "value": 20
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "defense": 68,
+    "iLevel": 49,
+    "name": "Angelic Mantle",
+    "quality": "Set",
+    "set": "Angelical Raiment",
+    "stats": [
+      {
+        "name": "red-dmg",
+        "value": 3
+      }
+    ],
+    "type": "Ring Mail"
+  },
+  {
+    "iLevel": 37,
+    "name": "Monk's Amulet of Guarding",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "magic_damage_reduction",
+        "value": 3
+      },
+      {
+        "name": "item_addclassskills",
+        "skill": "Paladin Skills",
+        "value": 1
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 43,
+    "name": "Shivering Grand Charm of Thunder",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 18
+      },
+      {
+        "name": "coldmindam",
+        "value": 4
+      },
+      {
+        "name": "coldmaxdam",
+        "value": 7
+      },
+      {
+        "name": "coldlength",
+        "value": 25
+      }
+    ],
+    "type": "Grand Charm"
+  },
+  {
+    "defense": 23,
+    "iLevel": 88,
+    "name": "Athlete's Circlet of the Squid",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 68
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Passive and Magic Skills (Amazon)",
+        "value": 3
+      }
+    ],
+    "type": "Circlet"
+  },
+  {
+    "defense": 50,
+    "iLevel": 19,
+    "name": "Arctic Furs",
+    "quality": "Set",
+    "set": "Arctic Gear",
+    "stats": [
+      {
+        "name": "res-all",
+        "value": 10
+      }
+    ],
+    "type": "Quilted Armor"
+  },
+  {
+    "iLevel": 17,
+    "name": "Shadowfang",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "manasteal",
+        "value": 9
+      },
+      {
+        "name": "res-cold",
+        "value": 20
+      },
+      {
+        "name": "light",
+        "value": -2
+      },
+      {
+        "max": 30,
+        "min": 10,
+        "name": "Cold Damage"
+      },
+      {
+        "name": "lifesteal",
+        "value": 9
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Two-Handed Sword"
+  },
+  {
+    "defense": 330,
+    "iLevel": 88,
+    "name": "Rattlecage",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "howl",
+        "value": 10
+      },
+      {
+        "name": "att",
+        "range": {
+          "max": 145,
+          "min": 100
+        },
+        "value": 104
+      },
+      {
+        "name": "crush",
+        "value": 25
+      },
+      {
+        "name": "ac",
+        "value": 330
+      }
+    ],
+    "type": "Gothic Plate"
+  },
+  {
+    "defense": 134,
+    "iLevel": 41,
+    "isRuneword": true,
+    "quality": "Normal",
+    "runeword": "Stealth",
+    "socketed": [
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Tal Rune"
+      },
+      {
+        "iLevel": 1,
+        "isRune": true,
+        "quality": "Normal",
+        "type": "ÿc8Eth Rune"
+      }
+    ],
+    "sockets": 2,
+    "stats": [
+      {
+        "name": "red-mag",
+        "value": 3
+      },
+      {
+        "name": "dex",
+        "value": 6
+      },
+      {
+        "name": "stam",
+        "value": 15
+      },
+      {
+        "name": "move2",
+        "value": 10
+      },
+      {
+        "name": "cast2",
+        "value": 10
+      },
+      {
+        "name": "balance2",
+        "value": 10
+      }
+    ],
+    "type": "Demonhide Armor"
+  },
+  {
+    "defense": 55,
+    "iLevel": 69,
+    "name": "Spiderweb Sash",
+    "quality": "Magic",
+    "type": "Spiderweb Sash",
+    "unidentified": true
+  },
+  {
+    "iLevel": 85,
+    "name": "Gaea's Amulet of Warmth",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_halffreezeduration",
+        "value": 1
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Elemental (Druid)",
+        "value": 3
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 56,
+    "name": "Small Charm of Thunder",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 16
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 72,
+    "name": "Cathan's Seal",
+    "quality": "Set",
+    "set": "Cathan's Traps",
+    "stats": [
+      {
+        "name": "lifesteal",
+        "value": 6
+      },
+      {
+        "name": "red-dmg",
+        "value": 2
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 45,
+    "name": "Ring of Fortune",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 19
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 27,
+    "name": "Amulet of Luck",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_magicbonus",
+        "value": 29
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "defense": 33,
+    "iLevel": 69,
+    "name": "Arctic Binding",
+    "quality": "Set",
+    "set": "Arctic Gear",
+    "stats": [
+      {
+        "name": "res-cold",
+        "value": 40
+      },
+      {
+        "name": "ac",
+        "value": 33
+      }
+    ],
+    "type": "Light Belt"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Fervor",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fasterattackrate",
+        "value": 15
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 37,
+    "name": "Septic Small Charm of Lightning",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 8
+      },
+      {
+        "name": "poisonmindam",
+        "value": 52
+      },
+      {
+        "name": "poisonmaxdam",
+        "value": 52
+      },
+      {
+        "name": "poisonlength",
+        "value": 75
+      },
+      {
+        "name": "poison_count",
+        "value": 1
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 35,
+    "name": "Skull whorl",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "maxstamina",
+        "value": 8
+      },
+      {
+        "name": "poisonresist",
+        "value": 9
+      },
+      {
+        "name": "item_fastercastrate",
+        "value": 10
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "iLevel": 43,
+    "name": "Sapphire Amulet of Defiance",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "coldresist",
+        "value": 40
+      },
+      {
+        "name": "item_poisonlengthresist",
+        "value": 75
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 49,
+    "name": "Beryl Ring of Chance",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "poisonresist",
+        "value": 7
+      },
+      {
+        "name": "item_magicbonus",
+        "value": 15
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "defense": 6,
+    "iLevel": 72,
+    "name": "McAuley's Riprap",
+    "quality": "Set",
+    "set": "McAuley's Folly",
+    "stats": [
+      {
+        "name": "move3",
+        "value": 40
+      },
+      {
+        "name": "att",
+        "value": 100
+      },
+      {
+        "name": "str",
+        "value": 5
+      },
+      {
+        "name": "dex",
+        "value": 10
+      }
+    ],
+    "type": "Heavy Boots"
+  },
+  {
+    "iLevel": 72,
+    "name": "Guardian Naga",
+    "quality": "Unique",
+    "stats": [
+      {
+        "chance%": 5,
+        "level": 14,
+        "name": "Proc Skill on Hit"
+      },
+      {
+        "name": "thorns",
+        "range": {
+          "max": 150,
+          "min": 75
+        },
+        "value": 145
+      },
+      {
+        "name": "res-pois",
+        "value": 30
+      },
+      {
+        "max": 1280,
+        "min": 1280,
+        "name": "Poison Damage"
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Naga"
+  },
+  {
+    "iLevel": 37,
+    "name": "Pullspite",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "ltng-min",
+        "value": 1
+      },
+      {
+        "name": "ltng-max",
+        "range": {
+          "max": 60,
+          "min": 30
+        },
+        "value": 31
+      },
+      {
+        "name": "str",
+        "value": 8
+      },
+      {
+        "name": "att",
+        "range": {
+          "max": 84,
+          "min": 28
+        },
+        "value": 68
+      },
+      {
+        "name": "pierce",
+        "value": 25
+      },
+      {
+        "name": "res-ltng",
+        "value": 25
+      },
+      {
+        "name": "dmg%",
+        "range": {
+          "max": 160,
+          "min": 120
+        },
+        "value": 8
+      }
+    ],
+    "type": "Short Battle Bow"
+  },
+  {
+    "defense": 170,
+    "iLevel": 85,
+    "name": "Iceblink",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "freeze",
+        "value": 1
+      },
+      {
+        "name": "res-cold",
+        "range": {
+          "max": 35,
+          "min": 20
+        },
+        "value": 34
+      },
+      {
+        "name": "light",
+        "value": 4
+      },
+      {
+        "name": "red-mag",
+        "range": {
+          "max": 6,
+          "min": 2
+        },
+        "value": 5
+      },
+      {
+        "name": "cold skills",
+        "value": 1
+      }
+    ],
+    "type": "Splint Mail"
+  },
+  {
+    "defense": 18,
+    "iLevel": 52,
+    "name": "Dire grasp",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "dexterity",
+        "value": 9
+      },
+      {
+        "name": "item_armor_percent",
+        "value": 18
+      },
+      {
+        "name": "coldresist",
+        "value": 17
+      },
+      {
+        "name": "item_magicbonus",
+        "value": 25
+      },
+      {
+        "name": "item_lightradius",
+        "value": 1
+      }
+    ],
+    "type": "Gauntlets"
+  },
+  {
+    "defense": 163,
+    "iLevel": 88,
+    "name": "Aldur's Stony Gaze",
+    "quality": "Set",
+    "set": "Aldur's Watchtower",
+    "stats": [
+      {
+        "name": "ac",
+        "value": 163
+      },
+      {
+        "name": "regen-mana",
+        "value": 17
+      },
+      {
+        "name": "balance3",
+        "value": 25
+      },
+      {
+        "name": "res-cold",
+        "range": {
+          "max": 50,
+          "min": 40
+        },
+        "value": 48
+      },
+      {
+        "name": "All Druid Skills",
+        "range": {
+          "max": 2,
+          "min": 1
+        },
+        "skill": "Druid Skills",
+        "value": 1
+      }
+    ],
+    "type": "Hunter's Guise"
+  },
+  {
+    "defense": 33,
+    "iLevel": 70,
+    "name": "Berserker's Headgear",
+    "quality": "Set",
+    "set": "Berserker's Garb",
+    "stats": [
+      {
+        "name": "ac",
+        "value": 33
+      },
+      {
+        "name": "res-fire",
+        "value": 25
+      }
+    ],
+    "type": "Helm"
+  },
+  {
+    "defense": 170,
+    "iLevel": 94,
+    "name": "Sigon's Shelter",
+    "quality": "Set",
+    "set": "Sigon's Complete Steel",
+    "stats": [
+      {
+        "name": "res-ltng",
+        "value": 30
+      }
+    ],
+    "type": "Gothic Plate"
+  },
+  {
+    "iLevel": 69,
+    "name": "Arctic Horn",
+    "quality": "Set",
+    "set": "Arctic Gear",
+    "stats": [
+      {
+        "name": "att%",
+        "value": 20
+      }
+    ],
+    "type": "Short War Bow"
+  },
+  {
+    "defense": 22,
+    "iLevel": 75,
+    "name": "Civerb's Ward",
+    "quality": "Set",
+    "set": "Civerb's Vestments",
+    "stats": [
+      {
+        "name": "ac",
+        "range": {
+          "max": 60,
+          "min": 30
+        },
+        "value": 22
+      },
+      {
+        "name": "block",
+        "value": 24
+      }
+    ],
+    "type": "Tower Shield",
+    "unidentified": true
+  },
+  {
+    "iLevel": 82,
+    "name": "Demonlimb",
+    "quality": "Unique",
+    "stats": [
+      {
+        "max": 333,
+        "min": 222,
+        "name": "Fire Damage"
+      },
+      {
+        "name": "lifesteal",
+        "range": {
+          "max": 13,
+          "min": 7
+        },
+        "value": 7
+      },
+      {
+        "charges": 20,
+        "level": 23,
+        "name": "Charged Skill",
+        "skill": "Enchant"
+      },
+      {
+        "name": "dmg-demon",
+        "value": 123
+      },
+      {
+        "name": "res-fire",
+        "range": {
+          "max": 20,
+          "min": 15
+        },
+        "value": 20
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Tyrant Club"
+  },
+  {
+    "defense": 63,
+    "iLevel": 94,
+    "name": "Shadow grasp",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "lightresist",
+        "value": 12
+      },
+      {
+        "name": "poisonresist",
+        "value": 8
+      },
+      {
+        "name": "hpregen",
+        "value": 3
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Javalin and Spear Skills (Amazon)",
+        "value": 1
+      },
+      {
+        "name": "item_replenish_durability",
+        "value": 3
+      }
+    ],
+    "type": "Vampirebone Gloves"
+  },
+  {
+    "iLevel": 85,
+    "name": "The Impaler",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "ignore-ac",
+        "value": 1
+      },
+      {
+        "name": "att",
+        "value": 150
+      },
+      {
+        "name": "swing2",
+        "value": 20
+      },
+      {
+        "name": "openwounds",
+        "value": 40
+      },
+      {
+        "name": "noheal",
+        "value": 1
+      },
+      {
+        "name": "oskill",
+        "range": {
+          "max": 6,
+          "min": 4
+        }
+      },
+      {
+        "name": "oskill",
+        "range": {
+          "max": 4,
+          "min": 3
+        }
+      },
+      {
+        "name": "oskill",
+        "range": {
+          "max": 6,
+          "min": 4
+        }
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "War Spear"
+  },
+  {
+    "defense": 214,
+    "iLevel": 88,
+    "name": "Rockfleece",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "ease",
+        "value": -10
+      },
+      {
+        "name": "red-dmg%",
+        "range": {
+          "max": 15,
+          "min": 10
+        },
+        "value": 11
+      },
+      {
+        "name": "red-dmg",
+        "range": {
+          "max": 15,
+          "min": 5
+        },
+        "value": 14
+      },
+      {
+        "name": "str",
+        "value": 5
+      }
+    ],
+    "type": "Field Plate"
+  },
+  {
+    "iLevel": 23,
+    "name": "Captain's Amulet of the Mind",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "energy",
+        "value": 6
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Offensive Auras (Paladin)",
+        "value": 1
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 43,
+    "name": "Beast heart",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 3
+      },
+      {
+        "name": "dexterity",
+        "value": 5
+      },
+      {
+        "name": "maxmana",
+        "value": 84
+      },
+      {
+        "name": "fireresist",
+        "value": 7
+      },
+      {
+        "name": "item_magicbonus",
+        "value": 11
+      }
+    ],
+    "type": "Amulet"
+  },
+  {
+    "iLevel": 88,
+    "name": "Warshrike",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "pierce",
+        "value": 50
+      },
+      {
+        "name": "swing2",
+        "value": 30
+      },
+      {
+        "name": "deadly",
+        "value": 50
+      },
+      {
+        "chance%": 25,
+        "level": 19,
+        "name": "Proc Skill on Hit",
+        "skill": "Nova"
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Winged Knife"
+  },
+  {
+    "iLevel": 70,
+    "name": "Jewel of Bliss",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "mindamage",
+        "value": 7
+      },
+      {
+        "name": "secondary_mindamage",
+        "value": 7
+      },
+      {
+        "name": "item_throw_mindamage",
+        "value": 7
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 60,
+    "name": "PlagueRI master",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "tohit",
+        "value": 49
+      },
+      {
+        "name": "fireresist",
+        "value": 29
+      },
+      {
+        "name": "lightmindam",
+        "value": 1
+      },
+      {
+        "name": "lightmaxdam",
+        "value": 18
+      },
+      {
+        "name": "lifedrainmindam",
+        "value": 3
+      }
+    ],
+    "type": "Ring"
+  },
+  {
+    "defense": 61,
+    "iLevel": 85,
+    "name": "PlagueRI circlet",
+    "quality": "Rare",
+    "stats": [
+      {
+        "name": "item_armor_percent",
+        "value": 50
+      },
+      {
+        "name": "fireresist",
+        "value": 19
+      },
+      {
+        "name": "lightresist",
+        "value": 19
+      },
+      {
+        "name": "coldresist",
+        "value": 19
+      },
+      {
+        "name": "poisonresist",
+        "value": 19
+      },
+      {
+        "name": "lifedrainmindam",
+        "value": 6
+      },
+      {
+        "name": "hpregen",
+        "value": 6
+      },
+      {
+        "name": "item_addclassskills",
+        "skill": "Barbarian Skills",
+        "value": 2
+      }
+    ],
+    "type": "Coronet"
+  },
+  {
+    "defense": 162,
+    "iLevel": 87,
+    "name": "Aldur's Stony Gaze",
+    "quality": "Set",
+    "set": "Aldur's Watchtower",
+    "stats": [
+      {
+        "name": "ac",
+        "value": 162
+      },
+      {
+        "name": "regen-mana",
+        "value": 17
+      },
+      {
+        "name": "balance3",
+        "value": 25
+      },
+      {
+        "name": "res-cold",
+        "range": {
+          "max": 50,
+          "min": 40
+        },
+        "value": 42
+      },
+      {
+        "name": "All Druid Skills",
+        "range": {
+          "max": 2,
+          "min": 1
+        },
+        "skill": "Druid Skills",
+        "value": 2
+      }
+    ],
+    "type": "Hunter's Guise"
+  },
+  {
+    "defense": 160,
+    "iLevel": 85,
+    "name": "Immortal King's Will",
+    "quality": "Set",
+    "set": "Immortal King",
+    "sockets": 2,
+    "stats": [
+      {
+        "name": "ac",
+        "value": 160
+      },
+      {
+        "name": "gold%",
+        "range": {
+          "max": 67,
+          "min": 37
+        },
+        "value": 47
+      },
+      {
+        "name": "light",
+        "value": 4
+      },
+      {
+        "name": "mag%",
+        "range": {
+          "max": 40,
+          "min": 25
+        },
+        "value": 26
+      },
+      {
+        "name": "sock",
+        "value": 2
+      }
+    ],
+    "type": "Avenger Guard"
+  },
+  {
+    "defense": 154,
+    "iLevel": 69,
+    "name": "Wihtstan's Guard",
+    "quality": "Set",
+    "set": "Orphan's Call",
+    "stats": [
+      {
+        "name": "block3",
+        "value": 40
+      },
+      {
+        "name": "block",
+        "value": 67
+      },
+      {
+        "name": "half-freeze",
+        "value": 1
+      },
+      {
+        "name": "light",
+        "value": 5
+      }
+    ],
+    "type": "Round Shield"
+  },
+  {
+    "iLevel": 85,
+    "name": "Woestave",
+    "quality": "Unique",
+    "stats": [
+      {
+        "name": "slow",
+        "value": 50
+      },
+      {
+        "name": "openwounds",
+        "value": 50
+      },
+      {
+        "name": "stupidity",
+        "value": 3
+      },
+      {
+        "name": "dmg-ac",
+        "value": -50
+      },
+      {
+        "name": "freeze",
+        "value": 1
+      },
+      {
+        "name": "light",
+        "value": -3
+      },
+      {
+        "name": "noheal",
+        "value": 1
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "Halberd"
+  },
+  {
+    "iLevel": 85,
+    "name": "Jewel of Fire",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "firemindam",
+        "value": 4
+      },
+      {
+        "name": "firemaxdam",
+        "value": 11
+      }
+    ],
+    "type": "Jewel"
+  },
+  {
+    "iLevel": 43,
+    "name": "Small Charm of Life",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "maxhp",
+        "value": 8
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 76,
+    "name": "Small Charm of Balance",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "item_fastergethitrate",
+        "value": 5
+      }
+    ],
+    "type": "Small Charm"
+  },
+  {
+    "iLevel": 75,
+    "name": "Jewel",
+    "quality": "Magic",
+    "type": "Jewel",
+    "unidentified": true
+  },
+  {
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Hand Axe"
+  },
+  {
+    "defense": 5,
+    "iLevel": 1,
+    "quality": "Normal",
+    "type": "Buckler"
+  },
+  {
+    "iLevel": 88,
+    "name": "Death's Touch",
+    "quality": "Set",
+    "set": "Death's Disguise",
+    "stats": [
+      {
+        "name": "lifesteal",
+        "value": 4
+      },
+      {
+        "chance%": 100,
+        "level": 1,
+        "name": "splash"
+      }
+    ],
+    "type": "War Sword"
+  },
+  {
+    "iLevel": 85,
+    "name": "Ceremonial Javelin of Venom",
+    "quality": "Magic",
+    "stats": [
+      {
+        "name": "poisonmindam",
+        "value": 54
+      },
+      {
+        "name": "poisonmaxdam",
+        "value": 54
+      },
+      {
+        "name": "poisonlength",
+        "value": 100
+      },
+      {
+        "name": "item_addskill_tab",
+        "skill": "Javalin and Spear Skills (Amazon)",
+        "value": 3
+      },
+      {
+        "name": "poison_count",
+        "value": 1
+      },
+      {
+        "name": "item_splashonhit",
+        "value": 100
+      }
+    ],
+    "type": "Ceremonial Javelin"
+  }
+]
