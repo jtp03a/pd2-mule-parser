@@ -1,114 +1,156 @@
 import React, { useState, useEffect } from 'react';
+import { axiosService } from '../axios.service'
+import ItemDetail from './ItemDetail'
 
 function ViewMule() {
 
-    const [mule, setMule] = useState([])
-    const [currentIndex, setCurrentIndex] = useState(-1)
+    const [currentItemIndex, setCurrentItemIndex] = useState(-1)
+    const [currentMuleIndex, setCurrentMuleIndex] = useState(-1)
+    const [currentFoundItemIndex, setCurrentFoundItemIndex] = useState(-1)
     const [selectedItem, setSelectedItem] = useState()
-    const [filter, setFilter] = useState({})
+    const [selectedMule, setSelectedMule] = useState()
+    const [nameInput, setNameInput] = useState()
+    const [mules, setMules] = useState([])
+    const [foundItems, setFoundItems] = useState([])
+    const [loading, setLoading] = useState(false)
 
     useEffect(() => {
-
+        retrieveMules()
     }, []);
+
+    const retrieveMules = async () => {
+        try {
+            const { data } = await axiosService.get(`mules`);
+            setMules(data)
+        } catch (error) {
+
+        }
+    }
 
     const handleSelectedItem = (item, index) => {
         setSelectedItem(item);
-        setCurrentIndex(index);
+        setCurrentItemIndex(index);
     };
 
-    const filterList = (e) => {
+    const handleSelectedFoundItem = (item, index) => {
+        setSelectedItem(item.items);
+        setCurrentFoundItemIndex(index);
+    };
+
+    const handleSelectedMule = (mule, index) => {
+        setSelectedMule(mule);
+        setCurrentMuleIndex(index);
+    };
+
+    const searchByName = async (e) => {
         e.preventDefault()
-        const { name, value } = e.target;
-        console.log(e.target.value)
-        //setFilter({ ...filter, value });
+        try {
+            const { data } = await axiosService.post(`itemByName`, { name: nameInput.nameSearch });
+            setFoundItems(data)
+        } catch (error) {
+
+        }
     }
 
-    const parseFile = (e) => {
-        let file = e.target.files[0]
-        console.log(file)
-        const reader = new FileReader()
-        reader.readAsText(file)
-        reader.onload = () => {
-            setMule(JSON.parse(reader.result))
-        }
+    const handleInputChange = (e) => {
+        const { name, value } = e.target;
+        setNameInput({ ...nameInput, [name]: value });
+    }
+
+    const parseFile = async (e) => {
+        let files = [...e.target.files]
+        files.map(async (file, index) => {
+            const reader = new FileReader()
+            reader.readAsText(file)
+            reader.onload = async () => {
+                try {
+                    const { data } = await axiosService.post(`mules`, { name: file.name.slice(0, -4), items: JSON.parse(reader.result) });
+                    if (data) {
+                        retrieveMules()
+                    }
+                } catch (error) {
+
+                }
+            }
+        })
     }
 
     return (
         <div className="container d-flex justify-content-center">
-            <div className="row">
-                <div>
-                    <h3>Mule</h3>
-                    <input onChange={parseFile} type="file" id="mulefile" name="mulefile" />
-                    <form onSubmit={filterList}> 
-                        <input id="filter" name="filter" />
-                    </form>
-                    <ul className='list-group'>
-                        {mule &&
-                            mule.map((item, index) => (
-                                <li
-                                    className={"list-group-item " + (index === currentIndex ? "active" : "")}
-                                    onClick={() => handleSelectedItem(item, index)}
-                                    key={index}
-                                    data-toggle="modal"
-                                    data-target="#exampleModal"
-                                >
-                                    {item.isRuneword ? <p>{item.runeword}</p> :
-                                        (item.name ? <p>{item.name + " "}</p> : <p>{" "}</p>)}
-                                    <p><strong>{item.type}</strong></p>
-                                    <p>{item.quality}</p>
-                                </li>
-                            ))}
-                    </ul>
+            {loading ? <div>
+                <div className="spinner-border" role="status">
+                    <span className="sr-only">Loading...</span>
                 </div>
-                {selectedItem ? (
-                    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Item</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <div>
-                                        {selectedItem.name ?
-                                            <p><label>Name:</label>{" " + selectedItem.name}</p>
-                                            : <p>{""}</p>}
-                                    </div>
-                                    <div>
-                                        {selectedItem.iLevel ?
-                                            <p><label>iLevel:</label>{" " + selectedItem.iLevel}</p>
-                                            : <p>{""}</p>}
-                                    </div>
-                                    <div>
-                                        {selectedItem.quality ?
-                                            <p><label>Quality:</label>{" " + selectedItem.quality}</p>
-                                            : <p>{""}</p>}
-                                    </div>
-                                    <div>
-                                        {selectedItem.type ?
-                                            <p><label>Type:</label>{" " + selectedItem.type}</p>
-                                            : <p>{""}</p>}
-                                    </div>
-                                    <div>
-                                        {selectedItem.stats ?
-                                            <>{selectedItem.stats.map(stat => <p>{stat.name}{": "}
-                                                {stat.skill ? " " + stat.skill + " " : ""}
-                                                {stat.value}
-                                            </p>
-                                            )}</>
-                                            : <p>{""}</p>}
-                                    </div>
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                </div>
-                            </div>
+            </div> : (
+                    <div className="row">
+                        <div className="col">
+                            <h3>Search</h3>
+                            <form onSubmit={searchByName}>
+                                <label htmlFor="nameSearch">Item Name: </label>
+                                <input id="nameSearch" name="nameSearch" onChange={handleInputChange} />
+                            </form>
+                            <ul className='list-group'>
+                                {foundItems &&
+                                    foundItems.map((item, index) => (
+                                        <li
+                                            className={"list-group-item " + (index === currentFoundItemIndex ? "active" : "")}
+                                            onClick={() => handleSelectedFoundItem(item, index)}
+                                            key={index}
+                                            data-toggle="modal"
+                                            data-target="#itemDetail"
+                                        >
+                                            {item.isRuneword ? <p>{item.runeword}</p> :
+                                                (item.name ? <p>{item.name + " "}</p> : <p>{" "}</p>)}
+                                            <p><strong>{item.items.name}</strong></p>
+                                            <p>{item.quality}</p>
+                                        </li>
+                                    ))}
+                            </ul>
                         </div>
+                        <div className="col">
+                            <h3>Mule</h3>
+                            <input onChange={parseFile} type="file" id="mulefile" name="mulefile" multiple />
+
+                            <ul className='list-group'>
+                                {mules &&
+                                    mules.map((mule, index) => (
+                                        <li
+                                            className={"list-group-item " + (index === currentMuleIndex ? "active" : "")}
+                                            onClick={() => handleSelectedMule(mule, index)}
+                                            key={index}
+                                        >
+                                            <p><strong>{mule.name}</strong></p>
+                                        </li>
+                                    ))}
+                            </ul>
+                        </div>
+                        <div className="col">
+                            <h3>Items</h3>
+                            <ul className='list-group'>
+                                {selectedMule &&
+                                    selectedMule.items.map((item, index) => (
+                                        <li
+                                            className={"list-group-item " + (index === currentItemIndex ? "active" : "")}
+                                            onClick={() => handleSelectedItem(item, index)}
+                                            key={index}
+                                            data-toggle="modal"
+                                            data-target="#itemDetail"
+                                        >
+                                            {item.isRuneword ? <p>{item.runeword}</p> :
+                                                (item.name ? <p>{item.name + " "}</p> : <p>{" "}</p>)}
+                                            <p><strong>{item.type}</strong></p>
+                                            <p>{item.quality}</p>
+                                        </li>
+                                    ))}
+                            </ul>
+                        </div>
+                        {selectedItem ? (
+                            <div>
+                                <ItemDetail selectedItem={selectedItem} />
+                            </div>
+                        ) : (<div></div>)}
                     </div>
-                ) : (<div></div>)}
-            </div>
+                )}
         </div>
     )
 }
