@@ -31,6 +31,7 @@
 <li>Select all your character files in this folder with Ctrl or Shift Click
 <li>When the import has finished a list of your character files will appear in the "Mules" Column. You can click each list item to see all the items that character has on it. You can also click the items to see a detailed view of its stats
 <li>To search for an item type the full or partial name of the item in the "Search" section input box and hit enter. A list of the found items and the character they are located on will appear. You can click the item to see a detailed view.
+<li>As your items on your characters change you will need to re-import them into the database with the same process as above
 </ol>
 <h1>Features in Progress</h1>
 <ul>
